@@ -1,10 +1,12 @@
 # Accelerating Actor-based Distributed Triangle Counting
 
-Author emails:
+***Code will be made public shortly!***
+
+## Contact Us
 
 Aniruddha Mysore (animysore@gatech.edu)
 
 Kaushik Ravichandran (kravicja3@gatech.edu)
 
-Poster presentation at Supercomputing'23
-- [Link](https://sc23.conference-program.com/presentation/?id=rpost187&sess=sess291)
+Poster presentation at Supercomputing'23 - [Link](https://sc23.conference-program.com/presentation/?id=rpost187&sess=sess291)
+
